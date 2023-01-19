@@ -3,9 +3,11 @@
 # Project Lessons Learned
 
 ~~~ javascript
-  Neste repositório contém meu primeiro projeto como aluno da TRYBE e como desenvolvedor web.
-  Por mais simples que pareça esse projeto foi muito desafiador visto que entrei na TRYBE sem nenhum conhecimento e
-  com apenas um mês já tínhamos que fazer um projeto como esse, e conseguir entregar me trouxe muita alegria!
+  Neste repositório contém meu primeiro projeto como aluno da TRYBE e
+  como desenvolvedor web. Por mais simples que pareça esse projeto foi
+  muito desafiador visto que entrei na TRYBE sem nenhum conhecimento e
+  com apenas um mês já tínhamos que fazer um projeto como esse, e 
+  conseguir entregar me trouxe muita alegria!
 ~~~
 
 [ 👉 Veja como ficou! ](https://viniciusrogatti.github.io/project-lessons-learned/)
