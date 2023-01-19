@@ -1,0 +1,135 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, Helvetica, sans-serif;  
+}
+body{
+  background-color: rgb(253, 251, 251);
+}
+#cabecalho{
+  width: 100vw;
+  top: 0;
+  position: fixed;
+}
+#cabecalho h1{
+  text-align: center;
+  font-size: .9em;
+}
+.seção-1{
+  background-color: rgb(113, 97, 117);
+  height: 50px;
+  display:inline-block;  
+} 
+#minha_foto{
+  width: 150px;
+  padding: 20px;
+  margin-top: 20px;
+}
+.seção-2{
+ margin-top: 10px;
+ margin-left: 10px;
+ margin-right: 10px;
+ display: inline-block;
+}
+.seção-2 ul{
+  display: inline-block;
+  position: relative;
+  left:50px;
+  bottom: 20px; 
+  width: 240px;  
+}
+
+.seção-2 ol{
+  display: inline-block;  
+  position: relative;
+  bottom: 20px;
+  width: 265px;
+  left: 10px;  
+}
+.lado-direito{
+  display:inline-block;
+  position: relative;
+  width:auto;
+  left: 850px;
+  margin: 0px;
+  bottom:350px;
+  background-color: rgb(113, 97, 117);
+  border: solid;
+  border-radius: 4%; 
+}
+.lado-direito h2{
+  text-align: center;
+  margin-top: 10px;
+}
+#aside1{
+  width: 300PX;
+  margin: 10px;
+  line-height:20px;
+} 
+
+#link-exerciciosGit{
+  color:rgb(0, 0, 0);
+  text-decoration:none;
+  font-size: 20px;
+  display:inline-block;
+  background-color: rgb(113, 97, 117); 
+}
+#rodape{
+  position:absolute;
+  bottom: 0px;
+  width: 100%;
+  left: 0px;
+}
+#icons{
+  display: flex;
+  align-items: center;
+  border: solid;
+  background-color: rgb(113, 97, 117);
+  justify-content: center; 
+}
+.links-rodape{
+ display:flex;
+ align-items: center; 
+ flex-direction: column;
+ padding: 30px; 
+ text-decoration: none;
+ color: black;
+ background-color: rgb(113, 97, 117); 
+ width:280px; 
+ overflow: hidden; 
+}
+.icons-contact{
+  width:50px;    
+  background-color: rgb(113, 97, 117);
+}
+#direitos{
+  position: relative;
+  top: 50px;
+  background-color: rgb(113, 97, 117); 
+}
+article h2{
+  color: rgb(0, 0, 0)
+}
+article p {
+  font-style:oblique;
+  margin: 10px;
+}
+article{
+  background-color: rgb(113, 97, 117);
+  color: rgb(0, 0, 0);
+  border: solid;
+  border-radius: 4%;
+  text-align: center;
+  margin: 20px;
+}
+
+.table-projetos{
+  background-color:rgb(113, 97, 117);
+  border: solid rgb(58, 33, 65);
+  display: inline-block;
+  text-align: justify;  
+  margin: 10px;
+  margin-left: 30px;
+  position: relative;
+  bottom: 150px;  
+}
